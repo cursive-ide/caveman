@@ -1,0 +1,8 @@
+{:linters {:unused-namespace                      {:level :warning}
+           :unused-referred-var                   {:level :warning}
+           :unused-private-var                    {:level :warning}
+           :redundant-let                         {:level :warning}
+           :redundant-do                          {:level :warning}
+           :single-key-in                         {:level :warning}
+           :docstring-leading-trailing-whitespace {:level :warning}}
+ :lint-as {}}

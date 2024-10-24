@@ -1,0 +1,5 @@
+/.cpcache
+/.idea
+/.conversations
+/.clj-kondo/.cache
+/caveman-test.iml
